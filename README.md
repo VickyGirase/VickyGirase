@@ -5,6 +5,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20Everyone"/>
 </p>
 
+👨🏻‍💻  A Little Bit About Me and My Interests
+
 ```yaml
 name: Vicky Girase
 located_in: Gujarat,India
