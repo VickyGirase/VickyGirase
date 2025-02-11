@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20Everyone"/>
 </p>
 
-👨🏻‍💻  <h1 font="bold">A Little Bit About Me and My Interests</h1>
+👨🏻‍💻  <h1>A Little Bit About Me and My Interests</h1>
 
 ```yaml
 name: Vicky Girase
