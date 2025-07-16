@@ -7,6 +7,14 @@
 
   <h2>👨🏻‍💻 A Little Bit About Me and My Interests</h1>
 
+  <details>
+  <summary>📊 My GitHub Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=vickygirase&show_icons=true&theme=tokyonight" />
+</details>
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vicky_Raput&layout=compact&theme=tokyonight)
+
+
 ```yaml
 name: Vicky Girase
 located_in: Gujarat,India
